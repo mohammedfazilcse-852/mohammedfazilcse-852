@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Mohammed Fazil
 
-<!--
-**mohammedfazilcse-852/mohammedfazilcse-852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | B.E. Computer Science Graduate
 
-Here are some ideas to get you started:
+🌱 Currently learning:
+- Linux
+- Git & GitHub
+- AWS Cloud
+- Docker
+- Shell Scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Career Goal:
+Become a Cloud & DevOps Engineer.
+
+## 🛠 Skills
+
+- Linux
+- Git
+- GitHub
+- AWS
+- Docker
+- Bash
+- Python (Basics)
+
+## 📚 Currently Working On
+
+- Linux Administration
+- AWS Services
+- Docker Containers
+- DevOps Projects
+
+## 📫 Connect with Me
+
+LinkedIn:
+https://www.linkedin.com/in/mohammed-fazil-95a5383a5
+
+Email:
+Mohammedfazilcse@gmail.com
+
+⭐ Thanks for visiting my profile!
