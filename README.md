@@ -1,6 +1,6 @@
 # Hi , I'm Mohammed Fazil
 
-🎓 MCA Student | B.E. Computer Science Graduate
+| B.E. Computer Science Graduate
 
 🌱 Currently learning:
 - Linux
