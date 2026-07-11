@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mohammed Fazil
+# Hi , I'm Mohammed Fazil
 
 🎓 MCA Student | B.E. Computer Science Graduate
 
