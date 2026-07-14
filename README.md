@@ -26,7 +26,7 @@ Become a Cloud & DevOps Engineer.
 
 LinkedIn:www.linkedin.com/in/mohammed-fazil-95a5383a5
 
-https://www.linkedin.com/in/mohammed-fazil-95a5383a5
+
 
 Email:
 Mohammedfazilcse@gmail.com
