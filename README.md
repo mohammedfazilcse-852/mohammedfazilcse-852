@@ -13,7 +13,7 @@ Become a Cloud & DevOps Engineer.
 - AWS
 - Docker
 - Bash
-- Python (Basics)
+- Python 
 
 ## 📚 Currently Working On
 
@@ -24,7 +24,8 @@ Become a Cloud & DevOps Engineer.
 
 ## 📫 Connect with Me
 
-LinkedIn:
+LinkedIn:www.linkedin.com/in/mohammed-fazil-95a5383a5
+
 https://www.linkedin.com/in/mohammed-fazil-95a5383a5
 
 Email:
