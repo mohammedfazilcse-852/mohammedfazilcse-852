@@ -2,13 +2,6 @@
 
 | B.E. Computer Science Graduate
 
-🌱 Currently learning:
-- Linux
-- Git & GitHub
-- AWS Cloud
-- Docker
-- Shell Scripting
-
 🎯 Career Goal:
 Become a Cloud & DevOps Engineer.
 
